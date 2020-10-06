@@ -1,8 +1,21 @@
 {
-  "songs": [
-    { "id": 1, "title": "json-server", "author": "typicode" }
-  ],
   "artists": [
+    { "id": 1, "name": "Bon ovie"},
+    { "id": 2, "name": "Sint"},
+    { "id": 3, "name": "Micheal jackson"},
+    { "id": 4, "name": "Beethoven"},
+    { "id": 5, "name": "Bon iver"},
+    { "id": 6, "name": "Curtis Jackson"},
+    { "id": 7, "name": "Ed Sheeran"},
+    { "id": 8, "name": "Faith Hill"},
+    { "id": 9, "name": "Cold play"},
+    { "id": 10, "name": "Heroes"},
+    { "id": 11, "name": "Gorillaz"},
+    { "id": 12, "name": "Lizzo},
+    { "id": 13, "name": "Madonna"},
+    { "id": 14, "name": "Snoop Dogg"}
+  ],
+  "songs": [
     { "id": 1, "artist": "bon jovi", "genre" : "rock" },
     { "id": 2, "artist": "eagles", "genre" : "rock" },
     { "id": 3, "artist": "2pac", "genre" : "hip hop" },
