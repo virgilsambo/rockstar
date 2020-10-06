@@ -3,10 +3,10 @@
     { "id": 1, "title": "json-server", "author": "typicode" }
   ],
   "artists": [
-    { "id": 1, "artist": "bon jovi" }
-    { "id": 2, "artist": "bon jovi" }
-    { "id": 3, "artist": "bon jovi" }
-    { "id": 4, "artist": "bon jovi" }
+    { "id": 1, "artist": "bon jovi" },
+    { "id": 2, "artist": "bon jovi" },
+    { "id": 3, "artist": "bon jovi" },
+    { "id": 4, "artist": "bon jovi" },
     { "id": 5, "artist": "bon jovi" }
   ]
 }
