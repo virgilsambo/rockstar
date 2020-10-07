@@ -301,42 +301,6 @@
       "album": "2112"
     },
     {
-      "id": 2181,
-      "name": "2112: Overture, The Temples of Syrinx",
-      "year": 1976,
-      "artist": "Rush",
-      "shortname": "2112pt1",
-      "bpm": 138,
-      "duration": 372025,
-      "genre": "Prog",
-      "spotifyId": "5H8xFHau0x3PI1CssO6EaX",
-      "album": "2112"
-    },
-    {
-      "id": 115,
-      "name": "21st Century (Digital Boy)",
-      "year": 1990,
-      "artist": "Bad Religion",
-      "shortname": "21stcentdigiboy",
-      "bpm": 124,
-      "duration": 176150,
-      "genre": "Punk",
-      "spotifyId": "7C794YeXiiSdlvGLxgabkd",
-      "album": "Against the Grain"
-    },
-    {
-      "id": 574,
-      "name": "21st Century Breakdown",
-      "year": 2009,
-      "artist": "Green Day",
-      "shortname": "21stcenturybreakdown",
-      "bpm": 113,
-      "duration": 316055,
-      "genre": "Rock",
-      "spotifyId": "0RT1qESYHlNcUJI0Yo5Hzl",
-      "album": "21st Century Breakdown"
-    },
-    {
       "id": 2355,
       "name": "24K Magic",
       "year": 2016,
