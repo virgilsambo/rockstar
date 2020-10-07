@@ -1,272 +1,1286 @@
 {
-	"songs": [
-		{
-		"id": 190,
-		"name": "(Don't Fear) The Reaper",
-		"year": 1975,
-		"artist": "Blue Öyster Cult",
-		"shortname": "dontfearthereaper",
-		"bpm": 141,
-		"duration": 322822,
-		"genre": "Classic Rock",
-		"spotifyId": "5QTxFnGygVM4jFQiBovmRo",
-		"album": "Agents of Fortune"
-	}, {
-		"id": 1363,
-		"name": "(Funky) Sex Farm",
-		"year": 2009,
-		"artist": "Spinal Tap",
-		"shortname": "funkysexfarm",
-		"bpm": 107,
-		"duration": 260068,
-		"genre": "Metal",
-		"spotifyId": "1VfdMD8JguRISrccgLifIZ",
-		"album": "Back From The Dead"
-	}, {
-		"id": 1858,
-		"name": "(I Just) Died in Your Arms",
-		"year": 1986,
-		"artist": "Cutting Crew",
-		"shortname": "ijustdiedinyourarms",
-		"bpm": 126,
-		"duration": 285745,
-		"genre": "New Wave",
-		"spotifyId": "4ByEFOBuLXpCqvO1kw8Wdm",
-		"album": "Broadcast"
-	}, {
-		"id": 1557,
-		"name": "(If You're Wondering If I Want You To) I Want You To",
-		"year": 2009,
-		"artist": "Weezer",
-		"shortname": "iwantyouto",
-		"bpm": 110,
-		"duration": 211635,
-		"genre": "Alternative",
-		"spotifyId": "7akwKkIS6sp7Orbq7LEj5a",
-		"album": "Raditude"
-	}, {
-		"id": 1364,
-		"name": "(Listen to the) Flower People (Reggae Stylee)",
-		"year": 2009,
-		"artist": "Spinal Tap",
-		"shortname": "flowerpeople",
-		"bpm": 120,
-		"duration": 197350,
-		"genre": "Metal",
-		"spotifyId": "5Qe3fjOInx8FitkywWeDKn",
-		"album": "Back From The Dead"
-	}, {
-		"id": 1073,
-		"name": "(Reprise) Sandblasted Skin",
-		"year": 1996,
-		"artist": "Pantera",
-		"shortname": "sandblastedskin",
-		"bpm": 190,
-		"duration": 212208,
-		"genre": "Metal",
-		"spotifyId": "1LkjMNCu16QUwHJbzTqPnR",
-		"album": "The Great Southern Trendkill"
-	}, {
-		"id": 1046,
-		"name": "(Sittin' on the) Dock of the Bay (Take 2)",
-		"year": 1967,
-		"artist": "Otis Redding",
-		"shortname": "dockofthebay",
-		"bpm": 102,
-		"duration": 170025,
-		"genre": "R&B/Soul/Funk",
-		"spotifyId": "6Ud9fOJQ9ZO2qnsMFPiJsh",
-		"album": "Remember Me"
-	}, {
-		"id": 769,
-		"name": "(Take These) Chains",
-		"year": 1982,
-		"artist": "Judas Priest",
-		"shortname": "takethesechains",
-		"bpm": 125,
-		"duration": 210444,
-		"genre": "Metal",
-		"spotifyId": "3fV1eQ8KNKGF18SYY6UYIr",
-		"album": "Screaming for Vengeance"
-	}, {
-		"id": 946,
-		"name": "(We Are) The Road Crew '08",
-		"year": 1980,
-		"artist": "Motörhead",
-		"shortname": "wearetheroadcrew",
-		"bpm": 133,
-		"duration": 167900,
-		"genre": "Metal",
-		"spotifyId": "3XynKtOANF0x6ZXRMyyxjs",
-		"album": "(We Are) The Road Crew '08"
-	}, {
-		"id": 976,
-		"name": "(You Can Still) Rock in America",
-		"year": 1983,
-		"artist": "Night Ranger",
-		"shortname": "rockinamerica",
-		"bpm": 165,
-		"duration": 259737,
-		"genre": "Rock",
-		"spotifyId": "6bFUAlWdjrmErVgNsnP8tG",
-		"album": "Night Ranger Rock Band Re-Record"
-	}, {
-		"id": 2526,
-		"name": "(You're) Breakin' Up",
-		"year": 2015,
-		"artist": "The Black Cheers",
-		"shortname": "breakinup",
-		"bpm": 170,
-		"duration": 168390,
-		"genre": "Punk",
-		"spotifyId": null,
-		"album": "Sick Gun"
-	}, {
-		"id": 897,
-		"name": "...And Justice for All",
-		"year": 1988,
-		"artist": "Metallica",
-		"shortname": "andjusticeforall",
-		"bpm": 97,
-		"duration": 591218,
-		"genre": "Metal",
-		"spotifyId": "2VIk1zgNk6aRiIQ9C1T4Yu",
-		"album": "...And Justice for All"
-	}, {
-		"id": 1067,
-		"name": "10's",
-		"year": 1996,
-		"artist": "Pantera",
-		"shortname": "10s",
-		"bpm": 110,
-		"duration": 292877,
-		"genre": "Metal",
-		"spotifyId": "7imseKD4ZmLuy83TDOlagk",
-		"album": "The Great Southern Trendkill"
-	}, {
-		"id": 797,
-		"name": "100,000 Years (Live)",
-		"year": 1975,
-		"artist": "KISS",
-		"shortname": "100000years",
-		"bpm": 130,
-		"duration": 345427,
-		"genre": "Classic Rock",
-		"spotifyId": "0m0dHJhYVU1QhvkOCH75sL",
-		"album": "Dressed To Kill Tour"
-	}, {
-		"id": 1068,
-		"name": "13 Steps to Nowhere",
-		"year": 1996,
-		"artist": "Pantera",
-		"shortname": "13stepstonowhere",
-		"bpm": 171,
-		"duration": 225121,
-		"genre": "Metal",
-		"spotifyId": "6K1cfUIyg9cwjd55bZjJcw",
-		"album": "The Great Southern Trendkill"
-	}, {
-		"id": 2577,
-		"name": "18 and Life",
-		"year": 1989,
-		"artist": "Skid Row",
-		"shortname": "18andlife",
-		"bpm": 89,
-		"duration": 235235,
-		"genre": "Glam",
-		"spotifyId": "0qgrrDnUUhyxpxbBznUnzg",
-		"album": "Skid Row"
-	}, {
-		"id": 1118,
-		"name": "1901",
-		"year": 2009,
-		"artist": "Phoenix",
-		"shortname": "nineteenohone",
-		"bpm": 143,
-		"duration": 192509,
-		"genre": "Alternative",
-		"spotifyId": "5JtPGzRgrWxkXX9LoROq3d",
-		"album": "Wolfgang Amadeus Phoenix"
-	}
-],
-"artists": [{
-    "id": 760,
-    "name": "\"Weird Al\" Yankovic"
-}, {
-    "id": 3,
-    "name": ".38 Special"
-}, {
-    "id": 1,
-    "name": "3 Doors Down"
-}, {
-    "id": 2,
-    "name": "30 Seconds to Mars"
-}, {
-    "id": 585,
-    "name": "311"
-}, {
-    "id": 577,
-    "name": "4 Non Blondes"
-}, {
-    "id": 630,
-    "name": "5 Seconds of Summer"
-}, {
-    "id": 4,
-    "name": "88"
-}, {
-    "id": 600,
-    "name": "a-ha"
-}, {
-    "id": 6,
-    "name": "Abnormality"
-}, {
-    "id": 7,
-    "name": "AC/DC"
-}, {
-    "id": 8,
-    "name": "Ace Frehley"
-}, {
-    "id": 864,
-    "name": "Ace of Base"
-}, {
-    "id": 9,
-    "name": "Acro-brats"
-}, {
-    "id": 10,
-    "name": "Aerosmith"
-}, {
-    "id": 11,
-    "name": "AFI"
-}, {
-    "id": 12,
-    "name": "Against Me!"
-}, {
-    "id": 837,
-    "name": "Against the Current"
-}, {
-    "id": 13,
-    "name": "Airbourne"
-}, {
-    "id": 584,
-    "name": "Alabama Shakes"
-}, {
-    "id": 14,
-    "name": "Alan Jackson"
-}, {
-    "id": 15,
-    "name": "Alanis Morissette"
-}, {
-    "id": 16,
-    "name": "Alice Cooper"
-}, {
-    "id": 17,
-    "name": "Alice In Chains"
-}, {
-    "id": 18,
-    "name": "Alien Ant Farm"
-}, {
-    "id": 19,
-    "name": "All That Remains"
-}
-]
+  "songs": [
+    {
+      "id": 190,
+      "name": "(Don't Fear) The Reaper",
+      "year": 1975,
+      "artist": "Blue Öyster Cult",
+      "shortname": "dontfearthereaper",
+      "bpm": 141,
+      "duration": 322822,
+      "genre": "Classic Rock",
+      "spotifyId": "5QTxFnGygVM4jFQiBovmRo",
+      "album": "Agents of Fortune"
+    },
+    {
+      "id": 1363,
+      "name": "(Funky) Sex Farm",
+      "year": 2009,
+      "artist": "Spinal Tap",
+      "shortname": "funkysexfarm",
+      "bpm": 107,
+      "duration": 260068,
+      "genre": "Metal",
+      "spotifyId": "1VfdMD8JguRISrccgLifIZ",
+      "album": "Back From The Dead"
+    },
+    {
+      "id": 1858,
+      "name": "(I Just) Died in Your Arms",
+      "year": 1986,
+      "artist": "Cutting Crew",
+      "shortname": "ijustdiedinyourarms",
+      "bpm": 126,
+      "duration": 285745,
+      "genre": "New Wave",
+      "spotifyId": "4ByEFOBuLXpCqvO1kw8Wdm",
+      "album": "Broadcast"
+    },
+    {
+      "id": 1557,
+      "name": "(If You're Wondering If I Want You To) I Want You To",
+      "year": 2009,
+      "artist": "Weezer",
+      "shortname": "iwantyouto",
+      "bpm": 110,
+      "duration": 211635,
+      "genre": "Alternative",
+      "spotifyId": "7akwKkIS6sp7Orbq7LEj5a",
+      "album": "Raditude"
+    },
+    {
+      "id": 1364,
+      "name": "(Listen to the) Flower People (Reggae Stylee)",
+      "year": 2009,
+      "artist": "Spinal Tap",
+      "shortname": "flowerpeople",
+      "bpm": 120,
+      "duration": 197350,
+      "genre": "Metal",
+      "spotifyId": "5Qe3fjOInx8FitkywWeDKn",
+      "album": "Back From The Dead"
+    },
+    {
+      "id": 1073,
+      "name": "(Reprise) Sandblasted Skin",
+      "year": 1996,
+      "artist": "Pantera",
+      "shortname": "sandblastedskin",
+      "bpm": 190,
+      "duration": 212208,
+      "genre": "Metal",
+      "spotifyId": "1LkjMNCu16QUwHJbzTqPnR",
+      "album": "The Great Southern Trendkill"
+    },
+    {
+      "id": 1046,
+      "name": "(Sittin' on the) Dock of the Bay (Take 2)",
+      "year": 1967,
+      "artist": "Otis Redding",
+      "shortname": "dockofthebay",
+      "bpm": 102,
+      "duration": 170025,
+      "genre": "R&B/Soul/Funk",
+      "spotifyId": "6Ud9fOJQ9ZO2qnsMFPiJsh",
+      "album": "Remember Me"
+    },
+    {
+      "id": 769,
+      "name": "(Take These) Chains",
+      "year": 1982,
+      "artist": "Judas Priest",
+      "shortname": "takethesechains",
+      "bpm": 125,
+      "duration": 210444,
+      "genre": "Metal",
+      "spotifyId": "3fV1eQ8KNKGF18SYY6UYIr",
+      "album": "Screaming for Vengeance"
+    },
+    {
+      "id": 946,
+      "name": "(We Are) The Road Crew '08",
+      "year": 1980,
+      "artist": "Motörhead",
+      "shortname": "wearetheroadcrew",
+      "bpm": 133,
+      "duration": 167900,
+      "genre": "Metal",
+      "spotifyId": "3XynKtOANF0x6ZXRMyyxjs",
+      "album": "(We Are) The Road Crew '08"
+    },
+    {
+      "id": 976,
+      "name": "(You Can Still) Rock in America",
+      "year": 1983,
+      "artist": "Night Ranger",
+      "shortname": "rockinamerica",
+      "bpm": 165,
+      "duration": 259737,
+      "genre": "Rock",
+      "spotifyId": "6bFUAlWdjrmErVgNsnP8tG",
+      "album": "Night Ranger Rock Band Re-Record"
+    },
+    {
+      "id": 2526,
+      "name": "(You're) Breakin' Up",
+      "year": 2015,
+      "artist": "The Black Cheers",
+      "shortname": "breakinup",
+      "bpm": 170,
+      "duration": 168390,
+      "genre": "Punk",
+      "spotifyId": null,
+      "album": "Sick Gun"
+    },
+    {
+      "id": 897,
+      "name": "...And Justice for All",
+      "year": 1988,
+      "artist": "Metallica",
+      "shortname": "andjusticeforall",
+      "bpm": 97,
+      "duration": 591218,
+      "genre": "Metal",
+      "spotifyId": "2VIk1zgNk6aRiIQ9C1T4Yu",
+      "album": "...And Justice for All"
+    },
+    {
+      "id": 1067,
+      "name": "10's",
+      "year": 1996,
+      "artist": "Pantera",
+      "shortname": "10s",
+      "bpm": 110,
+      "duration": 292877,
+      "genre": "Metal",
+      "spotifyId": "7imseKD4ZmLuy83TDOlagk",
+      "album": "The Great Southern Trendkill"
+    },
+    {
+      "id": 797,
+      "name": "100,000 Years (Live)",
+      "year": 1975,
+      "artist": "KISS",
+      "shortname": "100000years",
+      "bpm": 130,
+      "duration": 345427,
+      "genre": "Classic Rock",
+      "spotifyId": "0m0dHJhYVU1QhvkOCH75sL",
+      "album": "Dressed To Kill Tour"
+    },
+    {
+      "id": 1068,
+      "name": "13 Steps to Nowhere",
+      "year": 1996,
+      "artist": "Pantera",
+      "shortname": "13stepstonowhere",
+      "bpm": 171,
+      "duration": 225121,
+      "genre": "Metal",
+      "spotifyId": "6K1cfUIyg9cwjd55bZjJcw",
+      "album": "The Great Southern Trendkill"
+    },
+    {
+      "id": 2577,
+      "name": "18 and Life",
+      "year": 1989,
+      "artist": "Skid Row",
+      "shortname": "18andlife",
+      "bpm": 89,
+      "duration": 235235,
+      "genre": "Glam",
+      "spotifyId": "0qgrrDnUUhyxpxbBznUnzg",
+      "album": "Skid Row"
+    },
+    {
+      "id": 1118,
+      "name": "1901",
+      "year": 2009,
+      "artist": "Phoenix",
+      "shortname": "nineteenohone",
+      "bpm": 143,
+      "duration": 192509,
+      "genre": "Alternative",
+      "spotifyId": "5JtPGzRgrWxkXX9LoROq3d",
+      "album": "Wolfgang Amadeus Phoenix"
+    },
+    {
+      "id": 1429,
+      "name": "1969",
+      "year": 1969,
+      "artist": "The Stooges",
+      "shortname": "nineteensixtynine",
+      "bpm": 93,
+      "duration": 269973,
+      "genre": "Rock",
+      "spotifyId": "4nJCE9UyNXhuERnSX8YgSH",
+      "album": "The Stooges"
+    },
+    {
+      "id": 964,
+      "name": "1983",
+      "year": 2010,
+      "artist": "Neon Trees",
+      "shortname": "nineteeneightythree",
+      "bpm": 153,
+      "duration": 224312,
+      "genre": "Pop-Rock",
+      "spotifyId": "4DJLcyfnyEGlUejAEAX4az",
+      "album": "Habits"
+    },
+    {
+      "id": 634,
+      "name": "2 Minutes to Midnight",
+      "year": 1984,
+      "artist": "Iron Maiden",
+      "shortname": "2minutestomidnight",
+      "bpm": 178,
+      "duration": 371030,
+      "genre": "Metal",
+      "spotifyId": "01MqEw2Y7knaImpcrTqlBH",
+      "album": "Flight 666: Rock Band Edition"
+    },
+    {
+      "id": 1456,
+      "name": "20th Century Boy",
+      "year": 1973,
+      "artist": "T. Rex",
+      "shortname": "20thcenturyboy",
+      "bpm": 131,
+      "duration": 236585,
+      "genre": "Glam",
+      "spotifyId": "0pUY6OoQQPeXMT54qmKtkX",
+      "album": "Tanx"
+    },
+    {
+      "id": 557,
+      "name": "21 Guns",
+      "year": 2009,
+      "artist": "Green Day",
+      "shortname": "21guns",
+      "bpm": 79,
+      "duration": 327509,
+      "genre": "Rock",
+      "spotifyId": "64yrDBpcdwEdNY9loyEGbX",
+      "album": "21st Century Breakdown"
+    },
+    {
+      "id": 2300,
+      "name": "2112",
+      "year": 1976,
+      "artist": "Rush",
+      "shortname": "2112full",
+      "bpm": 138,
+      "duration": 1227080,
+      "genre": "Prog",
+      "spotifyId": "5H8xFHau0x3PI1CssO6EaX",
+      "album": "2112"
+    },
+    {
+      "id": 2179,
+      "name": "2112: Discovery, Presentation",
+      "year": 1976,
+      "artist": "Rush",
+      "shortname": "2112pt2",
+      "bpm": 80,
+      "duration": 433933,
+      "genre": "Prog",
+      "spotifyId": "5H8xFHau0x3PI1CssO6EaX",
+      "album": "2112"
+    },
+    {
+      "id": 2180,
+      "name": "2112: Oracle: The Dream, Soliloquy, Grand Finale",
+      "year": 1976,
+      "artist": "Rush",
+      "shortname": "2112pt3",
+      "bpm": 80,
+      "duration": 393484,
+      "genre": "Prog",
+      "spotifyId": "5H8xFHau0x3PI1CssO6EaX",
+      "album": "2112"
+    },
+    {
+      "id": 2181,
+      "name": "2112: Overture, The Temples of Syrinx",
+      "year": 1976,
+      "artist": "Rush",
+      "shortname": "2112pt1",
+      "bpm": 138,
+      "duration": 372025,
+      "genre": "Prog",
+      "spotifyId": "5H8xFHau0x3PI1CssO6EaX",
+      "album": "2112"
+    },
+    {
+      "id": 115,
+      "name": "21st Century (Digital Boy)",
+      "year": 1990,
+      "artist": "Bad Religion",
+      "shortname": "21stcentdigiboy",
+      "bpm": 124,
+      "duration": 176150,
+      "genre": "Punk",
+      "spotifyId": "7C794YeXiiSdlvGLxgabkd",
+      "album": "Against the Grain"
+    },
+    {
+      "id": 574,
+      "name": "21st Century Breakdown",
+      "year": 2009,
+      "artist": "Green Day",
+      "shortname": "21stcenturybreakdown",
+      "bpm": 113,
+      "duration": 316055,
+      "genre": "Rock",
+      "spotifyId": "0RT1qESYHlNcUJI0Yo5Hzl",
+      "album": "21st Century Breakdown"
+    },
+    {
+      "id": 2355,
+      "name": "24K Magic",
+      "year": 2016,
+      "artist": "Bruno Mars",
+      "shortname": "24kmagic",
+      "bpm": 89,
+      "duration": 230142,
+      "genre": "Pop-Rock",
+      "spotifyId": "6b8Be6ljOzmkOmFslEb23P",
+      "album": "24K Magic"
+    },
+    {
+      "id": 273,
+      "name": "25 or 6 to 4",
+      "year": 1970,
+      "artist": "Chicago",
+      "shortname": "25or6to4",
+      "bpm": 143,
+      "duration": 295972,
+      "genre": "Classic Rock",
+      "spotifyId": "7GqIDx2QVGOpd4r1fZaUUW",
+      "album": "Chicago II"
+    },
+    {
+      "id": 804,
+      "name": "29 Fingers",
+      "year": 2005,
+      "artist": "The Konks",
+      "shortname": "29fingers",
+      "bpm": 151,
+      "duration": 173812,
+      "genre": "Rock",
+      "spotifyId": "4bZGn8EIX3GLmgbQILfvZi",
+      "album": "The Konks"
+    },
+    {
+      "id": 413,
+      "name": "3 Dimes Down",
+      "year": 2008,
+      "artist": "Drive-By Truckers",
+      "shortname": "3dimesdown",
+      "bpm": 125,
+      "duration": 200840,
+      "genre": "Country",
+      "spotifyId": "0srh5FVivlKjk66wBSZqmC",
+      "album": "Brighter Than Creation's Dark"
+    },
+    {
+      "id": 1192,
+      "name": "3's & 7's",
+      "year": 2007,
+      "artist": "Queens of the Stone Age",
+      "shortname": "3sand7s",
+      "bpm": 133,
+      "duration": 218010,
+      "genre": "Alternative",
+      "spotifyId": "63wsuMhok6GgcBRd2strGk",
+      "album": "Era Vulgaris"
+    },
+    {
+      "id": 2329,
+      "name": "3AM",
+      "year": 1996,
+      "artist": "Matchbox Twenty",
+      "shortname": "3am",
+      "bpm": 108,
+      "duration": 229999,
+      "genre": "Alternative",
+      "spotifyId": "5vYA1mW9g2Coh1HUFUSmlb",
+      "album": "Yourself or Someone Like You"
+    },
+    {
+      "id": 685,
+      "name": "3rd Stone from the Sun",
+      "year": 1967,
+      "artist": "The Jimi Hendrix Experience",
+      "shortname": "thirdstonefromthesun",
+      "bpm": 113,
+      "duration": 412036,
+      "genre": "Classic Rock",
+      "spotifyId": "34jAhU99TNRvYwwOEoINl3",
+      "album": "Are You Experienced"
+    },
+    {
+      "id": 2102,
+      "name": "5 Minutes Alone",
+      "year": 1994,
+      "artist": "Pantera",
+      "shortname": "5minutesalone",
+      "bpm": 94,
+      "duration": 358778,
+      "genre": "Metal",
+      "spotifyId": "5SAEMjVQbmin3g7b0RG6me",
+      "album": "Far Beyond Driven"
+    },
+    {
+      "id": 90,
+      "name": "666",
+      "year": 1982,
+      "artist": "Anvil",
+      "shortname": "sixsixsix",
+      "bpm": 70,
+      "duration": 280969,
+      "genre": "Metal",
+      "spotifyId": "4Gc8BQ1NSNWAU7SSxxnaJd",
+      "album": "Anvil Rock Band Re-Record"
+    },
+    {
+      "id": 905,
+      "name": "7 Things",
+      "year": 2008,
+      "artist": "Miley Cyrus",
+      "shortname": "7things",
+      "bpm": 107,
+      "duration": 214081,
+      "genre": "Pop/Dance/Electronic",
+      "spotifyId": "5ecZWU5uQOiCVSnPxBZNmT",
+      "album": "Breakout"
+    },
+    {
+      "id": 2247,
+      "name": "867-5309/Jenny",
+      "year": 1981,
+      "artist": "Tommy Tutone",
+      "shortname": "jenny",
+      "bpm": 137,
+      "duration": 228739,
+      "genre": "Rock",
+      "spotifyId": "2ehztVNZ1cny3VllxyBE7f",
+      "album": "Tutone-Ality"
+    },
+    {
+      "id": 1532,
+      "name": "A-Punk",
+      "year": 2008,
+      "artist": "Vampire Weekend",
+      "shortname": "apunk",
+      "bpm": 178,
+      "duration": 142600,
+      "genre": "Indie Rock",
+      "spotifyId": "1595LW73XBxkRk2ciQOHfr",
+      "album": "Vampire Weekend"
+    },
+    {
+      "id": 2392,
+      "name": "A-YO",
+      "year": 2016,
+      "artist": "Lady Gaga",
+      "shortname": "ayo",
+      "bpm": 150,
+      "duration": 209599,
+      "genre": "Pop/Dance/Electronic",
+      "spotifyId": "6Az2Ll2CPnWYQ2BgiHf4Di",
+      "album": "Joanne"
+    },
+    {
+      "id": 648,
+      "name": "ABC",
+      "year": 1970,
+      "artist": "The Jackson 5",
+      "shortname": "abc",
+      "bpm": 180,
+      "duration": 191223,
+      "genre": "Pop-Rock",
+      "spotifyId": "6wDviYDtmSDZ0S6TVMM9Vc",
+      "album": "ABC"
+    },
+    {
+      "id": 992,
+      "name": "About a Girl",
+      "year": 1989,
+      "artist": "Nirvana",
+      "shortname": "aboutagirl",
+      "bpm": 125,
+      "duration": 171299,
+      "genre": "Grunge",
+      "spotifyId": "0zeqKbySjKbfW5jyl3PMsW",
+      "album": "Bleach"
+    },
+    {
+      "id": 2599,
+      "name": "Absolutely (Story Of A Girl)",
+      "year": 2000,
+      "artist": "Nine Days",
+      "shortname": "absolutely",
+      "bpm": 97,
+      "duration": 193874,
+      "genre": "Alternative",
+      "spotifyId": "3mNecsYFb6LQg7822DPXCP",
+      "album": "The Madding Crowd"
+    },
+    {
+      "id": 307,
+      "name": "Accidentally in Love",
+      "year": 2004,
+      "artist": "Counting Crows",
+      "shortname": "accidentallyinlove",
+      "bpm": 138,
+      "duration": 193043,
+      "genre": "Rock",
+      "spotifyId": "04j67XNNVu1HI7JrIlMM3S",
+      "album": "Shrek 2: Motion Picture Soundtrack"
+    },
+    {
+      "id": 1045,
+      "name": "According to You",
+      "year": 2009,
+      "artist": "Orianthi",
+      "shortname": "accordingtoyou",
+      "bpm": 131,
+      "duration": 198627,
+      "genre": "Pop-Rock",
+      "spotifyId": "72phhQtfwZcRweweRxxkmU",
+      "album": "Believe"
+    },
+    {
+      "id": 947,
+      "name": "Ace of Spades '08",
+      "year": 1980,
+      "artist": "Motörhead",
+      "shortname": "aceofspades",
+      "bpm": 140,
+      "duration": 174398,
+      "genre": "Metal",
+      "spotifyId": "57zAFD28ebYt0zzGa4d4WR",
+      "album": "Ace of Spades '08"
+    },
+    {
+      "id": 633,
+      "name": "Aces High (Live)",
+      "year": 2008,
+      "artist": "Iron Maiden",
+      "shortname": "aceshigh_live",
+      "bpm": 167,
+      "duration": 308118,
+      "genre": "Metal",
+      "spotifyId": "718gMWqByDGiMp1HFBOJvl",
+      "album": "Flight 666: Rock Band Edition"
+    },
+    {
+      "id": 1445,
+      "name": "Action",
+      "year": 1976,
+      "artist": "Sweet",
+      "shortname": "action",
+      "bpm": 173,
+      "duration": 202243,
+      "genre": "Glam",
+      "spotifyId": "2rkwEerYv5dhmu3WONhJqo",
+      "album": null
+    },
+    {
+      "id": 173,
+      "name": "Adam's Song",
+      "year": 1999,
+      "artist": "Blink-182",
+      "shortname": "adamssong",
+      "bpm": 135,
+      "duration": 253685,
+      "genre": "Punk",
+      "spotifyId": "43NhiKnrtGqztxDqXrcUux",
+      "album": "Enema of the State"
+    },
+    {
+      "id": 1957,
+      "name": "Adolescents",
+      "year": 2011,
+      "artist": "Incubus",
+      "shortname": "adolescents",
+      "bpm": 79,
+      "duration": 291267,
+      "genre": "Alternative",
+      "spotifyId": "3GULoUBuecH9leaypBkH7B",
+      "album": "If Not Now, When?"
+    },
+    {
+      "id": 1738,
+      "name": "The Adventure",
+      "year": 2006,
+      "artist": "Angels & Airwaves",
+      "shortname": "theadventure",
+      "bpm": 144,
+      "duration": 298071,
+      "genre": "Alternative",
+      "spotifyId": "2uuTo18bRgXj3RvlbZKMvU",
+      "album": "We Don't Need to Whisper"
+    },
+    {
+      "id": 1845,
+      "name": "Adventure of a Lifetime",
+      "year": 2015,
+      "artist": "Coldplay",
+      "shortname": "adventureofalifetime",
+      "bpm": 112,
+      "duration": 269998,
+      "genre": "Alternative",
+      "spotifyId": "69uxyAqqPIsUyTO8txoP2M",
+      "album": "A Head Full of Dreams"
+    },
+    {
+      "id": 2153,
+      "name": "The Adventures of Rain Dance Maggie",
+      "year": 2011,
+      "artist": "Red Hot Chili Peppers",
+      "shortname": "raindancemaggie",
+      "bpm": 105,
+      "duration": 286801,
+      "genre": "Alternative",
+      "spotifyId": "0PgNhIg5n0UAOBVn43b8b6",
+      "album": "I'm With You"
+    },
+    {
+      "id": 2235,
+      "name": "Aerials",
+      "year": 2001,
+      "artist": "System of a Down",
+      "shortname": "aerials",
+      "bpm": 77,
+      "duration": 232576,
+      "genre": "Nu-Metal",
+      "spotifyId": "4e9eGQYsOiBcftrWXwsVco",
+      "album": "Toxicity"
+    },
+    {
+      "id": 863,
+      "name": "Aesthetics of Hate",
+      "year": 2007,
+      "artist": "Machine Head",
+      "shortname": "aestheticsofhate",
+      "bpm": 202,
+      "duration": 361589,
+      "genre": "Metal",
+      "spotifyId": "7jaWtPpiwb5gxp3GIPDxWz",
+      "album": "The Blackening"
+    },
+    {
+      "id": 1761,
+      "name": "Africa",
+      "year": 1982,
+      "artist": "Toto",
+      "shortname": "africa",
+      "bpm": 92,
+      "duration": 290344,
+      "genre": "Pop-Rock",
+      "spotifyId": "2374M0fQpWi3dLnB54qaLX",
+      "album": "Toto IV"
+    },
+    {
+      "id": 103,
+      "name": "Afterlife",
+      "year": 2007,
+      "artist": "Avenged Sevenfold",
+      "shortname": "afterlife",
+      "bpm": 105,
+      "duration": 355918,
+      "genre": "Metal",
+      "spotifyId": "7akSWR8b2LrMnfh0ceChbj",
+      "album": "Avenged Sevenfold"
+    },
+    {
+      "id": 454,
+      "name": "Again",
+      "year": 2009,
+      "artist": "Flyleaf",
+      "shortname": "again",
+      "bpm": 78,
+      "duration": 192704,
+      "genre": "Nu-Metal",
+      "spotifyId": "3v2XiE8ztYHOsrjIBN4Xh2",
+      "album": "Memento Mori"
+    },
+    {
+      "id": 2511,
+      "name": "Ain't It Fun",
+      "year": 2013,
+      "artist": "Paramore",
+      "shortname": "aintitfun",
+      "bpm": 104,
+      "duration": 303460,
+      "genre": "Pop-Rock",
+      "spotifyId": "1j8z4TTjJ1YOdoFEDwJTQa",
+      "album": "Paramore"
+    },
+    {
+      "id": 1610,
+      "name": "Ain't Messin 'Round",
+      "year": 2012,
+      "artist": "Gary Clark Jr.",
+      "shortname": "aintmessinround",
+      "bpm": 137,
+      "duration": 247179,
+      "genre": "Rock",
+      "spotifyId": "5HJ8KMDkCCphevjBCbVLqa",
+      "album": "Blak and Blu"
+    },
+    {
+      "id": 693,
+      "name": "Ain't No Telling",
+      "year": 1967,
+      "artist": "The Jimi Hendrix Experience",
+      "shortname": "aintnotelling",
+      "bpm": 141,
+      "duration": 113526,
+      "genre": "Classic Rock",
+      "spotifyId": "1ToNKcpVRTxzAgRiywifMt",
+      "album": "Axis: Bold as Love"
+    },
+    {
+      "id": 2265,
+      "name": "Ain't Talkin' 'Bout Love",
+      "year": 1978,
+      "artist": "Van Halen",
+      "shortname": "ainttalkinboutlove",
+      "bpm": 138,
+      "duration": 231994,
+      "genre": "Rock",
+      "spotifyId": "4UmehW6tTXGC7HsuIGujMR",
+      "album": "Van Halen"
+    },
+    {
+      "id": 1777,
+      "name": "Airplanes",
+      "year": 2010,
+      "artist": "B.o.B (featuring Hayley Williams)",
+      "shortname": "airplanes",
+      "bpm": 93,
+      "duration": 185836,
+      "genre": "Hip-Hop/Rap",
+      "spotifyId": "6lV2MSQmRIkycDScNtrBXO",
+      "album": "B.o.B Presents: The Adventures of Bobby Ray"
+    },
+    {
+      "id": 534,
+      "name": "Alabama Getaway",
+      "year": 1980,
+      "artist": "The Grateful Dead",
+      "shortname": "alabamagetaway",
+      "bpm": 155,
+      "duration": 223881,
+      "genre": "Classic Rock",
+      "spotifyId": "5WVF1Ftv5oxspRac9km99R",
+      "album": "Go to Heaven"
+    },
+    {
+      "id": 1611,
+      "name": "Albert",
+      "year": 2015,
+      "artist": "Eddie Japan",
+      "shortname": "albert",
+      "bpm": 166,
+      "duration": 252433,
+      "genre": "Indie Rock",
+      "spotifyId": "221E835scM48TPXDIkC4l1",
+      "album": "Modern Desperation, Pt. II"
+    },
+    {
+      "id": 1255,
+      "name": "Alex Chilton",
+      "year": 1987,
+      "artist": "The Replacements",
+      "shortname": "alexchilton",
+      "bpm": 162,
+      "duration": 203918,
+      "genre": "Punk",
+      "spotifyId": "0xUzr3YfnBzdZa21UNDojX",
+      "album": "Pleased To Meet Me"
+    },
+    {
+      "id": 182,
+      "name": "Aliens Exist",
+      "year": 1999,
+      "artist": "Blink-182",
+      "shortname": "aliensexist",
+      "bpm": 108,
+      "duration": 197880,
+      "genre": "Punk",
+      "spotifyId": "3OqvxOIBOvcmYRo6vWSvmq",
+      "album": "Enema of the State"
+    },
+    {
+      "id": 1061,
+      "name": "Alive",
+      "year": 2001,
+      "artist": "P.O.D.",
+      "shortname": "alivepod",
+      "bpm": 81,
+      "duration": 209627,
+      "genre": "Nu-Metal",
+      "spotifyId": "1X4Ntw6Lbaa1ACgilCqMpr",
+      "album": "Satellite"
+    },
+    {
+      "id": 1115,
+      "name": "Alive",
+      "year": 1991,
+      "artist": "Pearl Jam",
+      "shortname": "alive",
+      "bpm": 74,
+      "duration": 348829,
+      "genre": "Grunge",
+      "spotifyId": "1L94M3KIu7QluZe63g64rv",
+      "album": "Ten"
+    },
+    {
+      "id": 2530,
+      "name": "Alive",
+      "year": 2016,
+      "artist": "The Temper Trap",
+      "shortname": "alive2",
+      "bpm": 105,
+      "duration": 210564,
+      "genre": "Indie Rock",
+      "spotifyId": "5aHvbhvGvyPTJ8q76WLN8k",
+      "album": "Thick as Thieves"
+    },
+    {
+      "id": 1113,
+      "name": "Alive (Live: Drop in the Park)",
+      "year": 1991,
+      "artist": "Pearl Jam",
+      "shortname": "alivelive",
+      "bpm": 80,
+      "duration": 314264,
+      "genre": "Grunge",
+      "spotifyId": null,
+      "album": "Ten (Deluxe Edition)"
+    },
+    {
+      "id": 2363,
+      "name": "All About That Bass",
+      "year": 2015,
+      "artist": "Meghan Trainor",
+      "shortname": "allaboutthatbass",
+      "bpm": 134,
+      "duration": 193431,
+      "genre": "Pop/Dance/Electronic",
+      "spotifyId": "5jE48hhRu8E6zBDPRSkEq7",
+      "album": "Title"
+    },
+    {
+      "id": 1981,
+      "name": "All Along the Watchtower",
+      "year": 1968,
+      "artist": "The Jimi Hendrix Experience",
+      "shortname": "allalongthewatchtower",
+      "bpm": 105,
+      "duration": 250924,
+      "genre": "Classic Rock",
+      "spotifyId": "2aoo2jlRnM3A0NyLQqMN2f",
+      "album": "Electric Ladyland"
+    },
+    {
+      "id": 2069,
+      "name": "All Apologies",
+      "year": 1993,
+      "artist": "Nirvana",
+      "shortname": "allapologies",
+      "bpm": 110,
+      "duration": 233640,
+      "genre": "Grunge",
+      "spotifyId": "1Ic9pKxGSJGM0LKeqf6lGe",
+      "album": "In Utero"
+    },
+    {
+      "id": 2333,
+      "name": "All For You",
+      "year": 1997,
+      "artist": "Sister Hazel",
+      "shortname": "allforyou",
+      "bpm": 135,
+      "duration": 225532,
+      "genre": "Alternative",
+      "spotifyId": "2skmOCFU64Bg7Ytkgwliwe",
+      "album": "...Somewhere More Familiar"
+    },
+    {
+      "id": 139,
+      "name": "All Going Out Together",
+      "year": 1987,
+      "artist": "Big Dipper",
+      "shortname": "allgoingouttogether",
+      "bpm": 134,
+      "duration": 182000,
+      "genre": "Indie Rock",
+      "spotifyId": "6aT3FVW5SOMP2ixt4giXkz",
+      "album": "Supercluster: The Big Dipper Anthology"
+    },
+    {
+      "id": 2193,
+      "name": "All I Wanna Do",
+      "year": 1993,
+      "artist": "Sheryl Crow",
+      "shortname": "alliwannado",
+      "bpm": 119,
+      "duration": 277187,
+      "genre": "Pop-Rock",
+      "spotifyId": "3ZpQiJ78LKINrW9SQTgbXd",
+      "album": "Tuesday Night Music Club"
+    },
+    {
+      "id": 1032,
+      "name": "All I Want",
+      "year": 1997,
+      "artist": "The Offspring",
+      "shortname": "alliwant",
+      "bpm": 180,
+      "duration": 116408,
+      "genre": "Punk",
+      "spotifyId": "717oSBYrcR8awQgUsmyE32",
+      "album": "Ixnay on the Hombre"
+    },
+    {
+      "id": 261,
+      "name": "All Mixed Up",
+      "year": 1978,
+      "artist": "The Cars",
+      "shortname": "allmixedup",
+      "bpm": 122,
+      "duration": 283695,
+      "genre": "New Wave",
+      "spotifyId": "35jXTF1ALlzkrS2k1B5dkF",
+      "album": "The Cars"
+    },
+    {
+      "id": 461,
+      "name": "All My Life",
+      "year": 2002,
+      "artist": "Foo Fighters",
+      "shortname": "allmylife",
+      "bpm": 168,
+      "duration": 268824,
+      "genre": "Alternative",
+      "spotifyId": "40Gxnw5Vc8hnhGFknXHe3R",
+      "album": "One by One"
+    },
+    {
+      "id": 1297,
+      "name": "All of This",
+      "year": 2006,
+      "artist": "Shaimus",
+      "shortname": "allofthis",
+      "bpm": 160,
+      "duration": 157879,
+      "genre": "Indie Rock",
+      "spotifyId": "41Qy9XGD19I9Vq9zMWVLL2",
+      "album": "Paper Sun"
+    },
+    {
+      "id": 848,
+      "name": "All Over Again",
+      "year": 2007,
+      "artist": "Locksley",
+      "shortname": "alloveragain",
+      "bpm": 150,
+      "duration": 203953,
+      "genre": "Pop-Rock",
+      "spotifyId": "2D85dIkcXSaijjqJGxiOtx",
+      "album": "Don't Make Me Wait"
+    },
+    {
+      "id": 1612,
+      "name": "All Over You",
+      "year": 1994,
+      "artist": "Live",
+      "shortname": "alloveryou",
+      "bpm": 133,
+      "duration": 242947,
+      "genre": "Alternative",
+      "spotifyId": "0sqE6XPi9VAaWl5NxDyMQK",
+      "album": "Throwing Copper"
+    },
+    {
+      "id": 492,
+      "name": "All Right Now",
+      "year": 1970,
+      "artist": "Free",
+      "shortname": "allrightnow",
+      "bpm": 115,
+      "duration": 337023,
+      "genre": "Classic Rock",
+      "spotifyId": "1gcESexgftSuLuML57Y69q",
+      "album": "Fire and Water"
+    },
+    {
+      "id": 1329,
+      "name": "All Star",
+      "year": 1999,
+      "artist": "Smash Mouth",
+      "shortname": "allstar",
+      "bpm": 104,
+      "duration": 202011,
+      "genre": "Pop-Rock",
+      "spotifyId": "3cfOd4CMv2snFaKAnMdnvK",
+      "album": "Astro Lounge"
+    },
+    {
+      "id": 1961,
+      "name": "All the Rage Back Home",
+      "year": 2014,
+      "artist": "Interpol",
+      "shortname": "alltheragebackhome",
+      "bpm": 158,
+      "duration": 267255,
+      "genre": "Indie Rock",
+      "spotifyId": "41g3tCnqP8yTauiPQPndVO",
+      "album": "El Pintor"
+    },
+    {
+      "id": 181,
+      "name": "All the Small Things",
+      "year": 1999,
+      "artist": "Blink-182",
+      "shortname": "allthesmallthings",
+      "bpm": 148,
+      "duration": 169237,
+      "genre": "Punk",
+      "spotifyId": "7yCPwWs66K8Ba5lFuU2bcx",
+      "album": "Enema of the State"
+    },
+    {
+      "id": 967,
+      "name": "All the Things That Go to Make Heaven and Earth",
+      "year": 2007,
+      "artist": "The New Pornographers",
+      "shortname": "allthethingsthatgo",
+      "bpm": 152,
+      "duration": 192933,
+      "genre": "Indie Rock",
+      "spotifyId": "3HNgLSxtaQZzRNYScmvnch",
+      "album": "Challengers"
+    },
+    {
+      "id": 1996,
+      "name": "All These Things That I've Done",
+      "year": 2004,
+      "artist": "The Killers",
+      "shortname": "allthesethingsthativedone",
+      "bpm": 103,
+      "duration": 305850,
+      "genre": "Alternative",
+      "spotifyId": "0kYUrLVQOfx21xuXu7OGrT",
+      "album": "Hot Fuss"
+    },
+    {
+      "id": 2606,
+      "name": "All You Wanted",
+      "year": 2001,
+      "artist": "Michelle Branch",
+      "shortname": "allyouwanted",
+      "bpm": 96,
+      "duration": 219987,
+      "genre": "Alternative",
+      "spotifyId": "0kr6d8wHDQPlzuET33NVn6?si=TdY0fB4PSSWGWW1FkKjNgw",
+      "album": "The Spirit Room"
+    },
+    {
+      "id": 260,
+      "name": "All-American Girl",
+      "year": 2007,
+      "artist": "Carrie Underwood",
+      "shortname": "allamericangirl",
+      "bpm": 123,
+      "duration": 216787,
+      "genre": "Country",
+      "spotifyId": "2dRPQFwPqAmc42mDRnsDQu",
+      "album": "Carnival Ride"
+    },
+    {
+      "id": 105,
+      "name": "Almost Easy",
+      "year": 2007,
+      "artist": "Avenged Sevenfold",
+      "shortname": "almosteasy",
+      "bpm": 175,
+      "duration": 239977,
+      "genre": "Metal",
+      "spotifyId": "1gF5miexkFs5uZj04Y5t9M",
+      "album": "Avenged Sevenfold"
+    },
+    {
+      "id": 1948,
+      "name": "Alone",
+      "year": 1987,
+      "artist": "Heart",
+      "shortname": "alone",
+      "bpm": 87,
+      "duration": 223525,
+      "genre": "Classic Rock",
+      "spotifyId": "54b8qPFqYqIndfdxiLApea",
+      "album": "Bad Animals"
+    },
+    {
+      "id": 606,
+      "name": "Alone in My Head",
+      "year": 2006,
+      "artist": "Hautewerk",
+      "shortname": "aloneinmyhead",
+      "bpm": 100,
+      "duration": 240598,
+      "genre": "Indie Rock",
+      "spotifyId": null,
+      "album": "Stop Start Again"
+    },
+    {
+      "id": 2487,
+      "name": "Alone Time",
+      "year": 2016,
+      "artist": "Tigerman WOAH",
+      "shortname": "alonetime",
+      "bpm": 85,
+      "duration": 222475,
+      "genre": "Rock",
+      "spotifyId": "0q49UOy2PUA3cIXCAeLetD",
+      "album": "Boston Sessions, Vol. 1: Beast"
+    },
+    {
+      "id": 1860,
+      "name": "Alright",
+      "year": 2008,
+      "artist": "Darius Rucker",
+      "shortname": "alright2",
+      "bpm": 89,
+      "duration": 236068,
+      "genre": "Country",
+      "spotifyId": "5JlH51YDYsGj2dyEJKKjcN",
+      "album": "Learn to Live"
+    },
+    {
+      "id": 1770,
+      "name": "Always",
+      "year": 2003,
+      "artist": "Blink-182",
+      "shortname": "always",
+      "bpm": 158,
+      "duration": 251890,
+      "genre": "Punk",
+      "spotifyId": "3HM4NePuYAqdXpAGBk7nNz",
+      "album": "Blink-182"
+    }
+  ],
+  "artists": [
+    {
+      "id": 760,
+      "name": "\"Weird Al\" Yankovic"
+    },
+    {
+      "id": 3,
+      "name": ".38 Special"
+    },
+    {
+      "id": 1,
+      "name": "3 Doors Down"
+    },
+    {
+      "id": 2,
+      "name": "30 Seconds to Mars"
+    },
+    {
+      "id": 585,
+      "name": "311"
+    },
+    {
+      "id": 577,
+      "name": "4 Non Blondes"
+    },
+    {
+      "id": 630,
+      "name": "5 Seconds of Summer"
+    },
+    {
+      "id": 4,
+      "name": "88"
+    },
+    {
+      "id": 600,
+      "name": "a-ha"
+    },
+    {
+      "id": 6,
+      "name": "Abnormality"
+    },
+    {
+      "id": 7,
+      "name": "AC/DC"
+    },
+    {
+      "id": 8,
+      "name": "Ace Frehley"
+    },
+    {
+      "id": 864,
+      "name": "Ace of Base"
+    },
+    {
+      "id": 9,
+      "name": "Acro-brats"
+    },
+    {
+      "id": 10,
+      "name": "Aerosmith"
+    },
+    {
+      "id": 11,
+      "name": "AFI"
+    },
+    {
+      "id": 12,
+      "name": "Against Me!"
+    },
+    {
+      "id": 837,
+      "name": "Against the Current"
+    },
+    {
+      "id": 13,
+      "name": "Airbourne"
+    },
+    {
+      "id": 584,
+      "name": "Alabama Shakes"
+    },
+    {
+      "id": 14,
+      "name": "Alan Jackson"
+    },
+    {
+      "id": 15,
+      "name": "Alanis Morissette"
+    },
+    {
+      "id": 16,
+      "name": "Alice Cooper"
+    },
+    {
+      "id": 17,
+      "name": "Alice In Chains"
+    },
+    {
+      "id": 18,
+      "name": "Alien Ant Farm"
+    },
+    {
+      "id": 19,
+      "name": "All That Remains"
+    }
+  ]
 }
