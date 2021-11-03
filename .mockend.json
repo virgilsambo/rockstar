@@ -1,5 +1,5 @@
 {
-	"songs": [
+	"Songs": [
 		{
 		"id": 190,
 		"name": "(Don't Fear) The Reaper",
@@ -27689,7 +27689,7 @@
 		"album": "21st Century Breakdown"
 	}
 ],
-"artists": [{
+"Artists": [{
     "id": 760,
     "name": "\"Weird Al\" Yankovic"
 }, {
